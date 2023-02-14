@@ -1,2 +1,2 @@
 #!/bin/bash
-ls * | rm ---one-file-system 
+ls * | rm ---one-file-system *.js 
